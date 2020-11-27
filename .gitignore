@@ -1,0 +1,10 @@
+
+# 인텔리J 설정파일
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+design-pattern.iml
+
+# 빌드파일 Ignore
+out/
